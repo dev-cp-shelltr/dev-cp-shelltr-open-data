@@ -1,1 +1,191 @@
-[]
+- id: de524e47-7971-463a-a06a-c9ed21ea1a18
+  name: Colm Willis
+  other_names: []
+  phones:
+  - (503) 588-5212
+  emails:
+  - cwillis@co.marion.or.us
+  urls:
+  - https://www.co.marion.or.us/BOC/Pages/default.aspx
+  image: https://www.co.marion.or.us/PublishingImages/Colm%20Willis.jpg?RenditionID=5
+  cdn_image: null
+  source_urls:
+  - https://www.co.marion.or.us/BOC/Pages/default.aspx
+  updated_at: '2026-11-13T01:17:45+00:00'
+  roles:
+  - name: Commissioner
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:or/county:marion/government
+    division_ocdid: ocd-division/country:us/state:or/county:marion
+    start_date: null
+    end_date: null
+- id: de7a2374-22d7-4d9b-ae21-ba4f38198ea3
+  name: Danielle Bethell
+  other_names: []
+  phones:
+  - (503) 588-5212
+  emails:
+  - dbethell@co.marion.or.us
+  urls:
+  - https://www.co.marion.or.us/BOC/Pages/default.aspx
+  image: https://www.co.marion.or.us/PublishingImages/DanielleBethell.jpg?RenditionID=5
+  cdn_image: null
+  source_urls:
+  - https://www.co.marion.or.us/BOC/Pages/default.aspx
+  updated_at: '2026-11-13T01:17:45+00:00'
+  roles:
+  - name: Commissioner
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:or/county:marion/government
+    division_ocdid: ocd-division/country:us/state:or/county:marion
+    start_date: null
+    end_date: null
+- id: 4d311bb2-e21a-4097-82ff-a2704cc84113
+  name: Jan Fritz
+  other_names: []
+  phones:
+  - (503) 588-5212
+  emails:
+  - jfritz@co.marion.or.us
+  urls:
+  - https://www.co.marion.or.us/BOC/Pages/default.aspx
+  image: https://www.co.marion.or.us/PublishingImages/Jan-Fritz.jpg?RenditionID=5
+  cdn_image: null
+  source_urls:
+  - https://www.co.marion.or.us/BOC/Pages/default.aspx
+  updated_at: '2026-11-13T01:17:45+00:00'
+  roles:
+  - name: Commissioner
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:or/county:marion/government
+    division_ocdid: ocd-division/country:us/state:or/county:marion
+    start_date: null
+    end_date: null
+- id: 04254492-00a9-4492-a323-aee08a339ded
+  name: Kevin Cameron
+  other_names: []
+  phones:
+  - (503) 588-5212
+  emails:
+  - kcameron@co.marion.or.us
+  urls:
+  - https://www.co.marion.or.us/BOC/Pages/default.aspx
+  image: https://www.co.marion.or.us/PublishingImages/Kevin%20Cameron.jpg?RenditionID=5
+  cdn_image: null
+  source_urls:
+  - https://www.co.marion.or.us/BOC/Pages/default.aspx
+  updated_at: '2026-11-13T01:17:45+00:00'
+  roles:
+  - name: Commissioner
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:or/county:marion/government
+    division_ocdid: ocd-division/country:us/state:or/county:marion
+    start_date: null
+    end_date: null
+- id: cd7d2fb1-7a7c-4f09-8717-5554edd89c51
+  name: Bill Burgess
+  other_names: []
+  phones:
+  - (503) 588-5041
+  emails:
+  - bburgess@co.marion.or.us
+  urls:
+  - https://www.co.marion.or.us/CO/Pages/default.aspx
+  image: https://www.co.marion.or.us/PublishingImages/Bill-Burgess.jpg?RenditionID=5
+  cdn_image: null
+  source_urls:
+  - https://www.co.marion.or.us/CO/Pages/default.aspx
+  updated_at: '2026-11-13T01:17:45+00:00'
+  roles:
+  - name: County Clerk
+    role_id: clerk
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:or/county:marion/government
+    division_ocdid: ocd-division/country:us/state:or/county:marion
+    start_date: null
+    end_date: null
+- id: e4c5ed0d-445e-42b7-a5bc-5ddb74fc48af
+  name: Sam Brentano
+  other_names: []
+  phones:
+  - (503) 584-7750
+  emails:
+  - treasurer@co.marion.or.us
+  urls:
+  - https://www.co.marion.or.us/TO/Pages/default.aspx
+  image: https://www.co.marion.or.us/PublishingImages/Sam-Brentano.jpg?RenditionID=5
+  cdn_image: null
+  source_urls:
+  - https://www.co.marion.or.us/TO/Pages/default.aspx
+  updated_at: '2026-11-13T01:17:45+00:00'
+  roles:
+  - name: County Treasurer
+    role_id: treasurer
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:or/county:marion/government
+    division_ocdid: ocd-division/country:us/state:or/county:marion
+    start_date: null
+    end_date: null
+- id: cb8c7711-f75e-4aab-a91a-47a749a091e5
+  name: Tom Rohlfing
+  other_names: []
+  phones:
+  - (503) 588-5144
+  emails:
+  - assessor@co.marion.or.us
+  urls:
+  - https://www.co.marion.or.us/AO/Pages/default.aspx
+  image: https://www.co.marion.or.us/PublishingImages/Tom-Rohlfing.jpg?RenditionID=5
+  cdn_image: null
+  source_urls:
+  - https://www.co.marion.or.us/AO/Pages/default.aspx
+  updated_at: '2026-11-13T01:17:45+00:00'
+  roles:
+  - name: County Assessor
+    role_id: assessor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:or/county:marion/government
+    division_ocdid: ocd-division/country:us/state:or/county:marion
+    start_date: null
+    end_date: null
+- id: 776c3100-8d9f-4501-9371-7eb0facfca1d
+  name: Nick Hunter
+  other_names: []
+  phones:
+  - (503) 588-5094
+  emails:
+  - sheriff@co.marion.or.us
+  urls:
+  - https://www.co.marion.or.us/SO/Pages/phonedirectory.aspx
+  - https://www.co.marion.or.us/SO/Pages/yoursheriff.aspx
+  image: https://www.co.marion.or.us/SO/PublishingImages/Pages/yoursheriff/nick%20header%20about%20us.png
+  cdn_image: null
+  source_urls:
+  - https://www.co.marion.or.us/SO/Pages/phonedirectory.aspx
+  - https://www.co.marion.or.us/SO/Pages/yoursheriff.aspx
+  updated_at: '2026-11-13T01:17:45+00:00'
+  roles:
+  - name: Sheriff
+    role_id: sheriff
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:or/county:marion/government
+    division_ocdid: ocd-division/country:us/state:or/county:marion
+    start_date: '2024-11-05'
+    end_date: null
+- id: f272b981-1d92-49c8-81b8-0905c2db126f
+  name: Brendan Murphy
+  other_names: []
+  phones:
+  - (503) 588-5222
+  emails:
+  - districtattorney@co.marion.or.us
+  urls:
+  - https://www.co.marion.or.us/DA/Pages/default.aspx
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.co.marion.or.us/DA/Pages/default.aspx
+  updated_at: '2026-11-13T01:17:45+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:or/county:marion/government
+    division_ocdid: ocd-division/country:us/state:or/county:marion
+    start_date: null
+    end_date: null
